@@ -1,0 +1,17 @@
+(lp0
+(dp1
+S'password'
+p2
+S'123456'
+p3
+sS'name'
+p4
+S'kkk'
+p5
+sa(dp6
+g2
+g3
+sg4
+S'bbb'
+p7
+sa.
